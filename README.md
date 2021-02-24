@@ -1,4 +1,4 @@
-# computer-vision-homework
+# image analysis and computer vision task
 
 Matlab program that analyzes an image of the Castello di Miramare in order to extract the following information items:
 
