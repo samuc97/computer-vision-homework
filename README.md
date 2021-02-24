@@ -1,11 +1,11 @@
-## computer-vision-homework
+# computer-vision-homework
 
 Matlab program that analyzes an image of the Castello di Miramare in order to extract the following information items:
 
-# Image Processing
+## Image Processing
 - Feature extraction. Find edges, corner features and straight lines in the image.
 
-# Geometry
+## Geometry
 - 2D reconstruction. Rectification of an horizontal plane Π from the useful selected image lines and features, divided in 2 steps:
   - affine rectification;
   - affine to metric rectification;
